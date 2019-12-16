@@ -1,2 +1,4 @@
+
 # Gacho.Cqrs
-CQRS framework using F# and Akkling
+
+CQRS framework using F# and Akkling.

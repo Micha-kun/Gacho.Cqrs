@@ -5,9 +5,10 @@
   <ItemGroup>
     <Compile Include="Global.System.fs" />
     <Compile Include="Global.ErrorHandling.fs" />
+    <Compile Include="BasicTypes.fs" />
     <Compile Include="Commands.fs" />
     <Compile Include="Events.fs" />
-    <Compile Include="DomainModel.fs" />
+    <Compile Include="DomainTypes.fs" />
     <Compile Include="Library.fs" />
   </ItemGroup>
   <Import Project="..\..\.paket\Paket.Restore.targets" />
